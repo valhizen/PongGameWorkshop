@@ -3,7 +3,8 @@
 ```clone the repo```
 
 In the root of the project
-```mkdir build
+```
+mkdir build
 cd build
 cmake ..
 make
